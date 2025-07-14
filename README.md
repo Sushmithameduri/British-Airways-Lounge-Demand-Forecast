@@ -64,11 +64,7 @@ This repository contains data science solutions for analyzing and forecasting Br
   - Time of day variations:
     * Lunchtime peaks for short-haul (17.28% Tier 3)
     * Morning peaks for long-haul (11.26% Tier 3)
-  - Total lounge demand highest for:
-    * SHORT - Lunchtime: 22.22% of passengers
-    * SHORT - Morning: 21.44% of passengers
-    * LONG - Morning: 14.43% of passengers
-
+  
 - **Business Impact:**
   - Clear distinction between long and short-haul demands
   - Time-of-day patterns enable precise resource allocation
