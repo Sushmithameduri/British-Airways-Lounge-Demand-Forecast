@@ -157,5 +157,4 @@ This repository contains data science solutions for analyzing and forecasting Br
    - Run all cells sequentially (Shift + Enter)
    - View results in the integrated outputs
 
-Note: Ensure you have VS Code with Python and Jupyter extensions installed.
 ---
