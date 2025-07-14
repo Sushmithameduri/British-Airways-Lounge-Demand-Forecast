@@ -129,8 +129,33 @@ This repository contains data science solutions for analyzing and forecasting Br
 ## Getting Started
 
 1. Clone the repository.
-2. Install dependencies:  
-   `pip install -r requirements.txt`
-3. Open the relevant notebook in `task 1/` or `task 2/` to reproduce analysis and results.
 
+   ```bash
+   git clone https://github.com/yourusername/British-Airways-Lounge-Demand-Forecast.git
+   cd British-Airways-Lounge-Demand-Forecast
+   ```
+
+2. Set up Python environment and install dependencies:
+   ```bash
+   conda create -n ba-lounge python=3.10
+   conda activate ba-lounge
+   pip install -r requirements.txt
+   ```
+
+3. Open the notebooks:
+   - For lounge demand prediction:
+     ```bash
+     code "task 1/lookup table.ipynb"
+     ```
+   - For booking behavior analysis:
+     ```bash
+     code "task 2/code.ipynb"
+     ```
+
+4. Run the notebooks:
+   - Select the `ba-lounge` kernel in VS Code
+   - Run all cells sequentially (Shift + Enter)
+   - View results in the integrated outputs
+
+Note: Ensure you have VS Code with Python and Jupyter extensions installed.
 ---
